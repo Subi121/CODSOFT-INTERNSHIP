@@ -1,0 +1,88 @@
+ body, h1, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.vish
+{
+    background-color:white;
+    padding:19px;
+
+}
+.vish2
+{
+    background-color:white;
+    padding:19px;
+}
+.signup-container2 {
+   
+    width: 100%;
+    max-width: 500px;
+    height: 1000x;
+    margin:auto;
+    padding: 23px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+       margin-top: 10%;
+    /* background-color:hsl(174, 84%, 42%); 
+    background: linear-gradient(to bottom,hsl(174, 84%, 42%), hsl(261, 81%, 32%));*/
+      background: linear-gradient(to bottom, hsl(330, 100%, 80%), hsl(270, 70%, 50%));
+}
+
+
+.signup-container {
+    
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+    margin:auto;
+    padding: 23px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+       margin-top: 10%;
+    
+      background: linear-gradient(to bottom, hsl(330, 100%, 80%), hsl(270, 70%, 50%));
+}
+
+
+.signup-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #141614;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color:#6717d5 ;
+}
+
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    width: 25%;
+    padding: 10px;
+    background-color:#17cccc;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    text-align: center;
+}
