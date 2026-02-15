@@ -1,0 +1,109 @@
+
+.services-page {
+    text-align: center;
+    padding: 250px;
+    padding-top: 100px;
+    /*background-image: url('https://static.vecteezy.com/system/resources/previews/000/169/058/non_2x/job-seeker-searching-a-job-vector.jpg');*/
+     background: linear-gradient(to bottom, hsl(330, 100%, 80%), hsl(270, 70%, 50%));
+    font-family: Arial, sans-serif;
+  }
+  .man
+  {
+     background: linear-gradient(to bottom,hsl(174, 84%, 42%), hsl(261, 81%, 32%));
+
+    padding:20px;
+  }
+  
+  .services-page h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 25px;
+    font-weight: 600;
+  }
+
+
+
+ /*max-width: 100%;
+  height: auto;
+  border-radius: 18px;
+  margin-right: 20px;
+  flex: 1;*/
+  .search-bar {
+    width: 70%;
+    max-width: 600px;
+    padding: 12px 20px;
+    margin: 20px 0;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    font-size: 16px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+  }
+  
+  .search-bar:focus {
+    border-color: #1e90ff;
+    outline: none;
+    box-shadow: 0 0 8px rgba(30, 144, 255, 0.3);
+  }
+  
+ 
+  .professional-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    font: size 200px;
+  }
+  
+ 
+  .professional-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    width: 280px;
+    padding: 25px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: left;
+  }
+  
+  .professional-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+  
+  .professional-card h2 {
+    font-size: 1.6rem;
+    color: #b31eb6;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .professional-card p {
+    font-size: 0.95rem;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+ 
+  .book-now-btn {
+    background: linear-gradient(to bottom,hsl(280, 62%, 36%), hsl(261, 38%, 46%));
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    width: 100%;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .book-now-btn:hover {
+    background-color: #0dcba2;
+    box-shadow: 0 6px 12px rgba(27, 219, 85, 0.768);
+  }
+  
+  .book-now-btn:active {
+    background-color: #1874cd;
+  }
+  
