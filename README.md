@@ -10,15 +10,15 @@ This project is a responsive tribute webpage dedicated to Dr. Kiran Bedi, Indiaâ
 
 ### Technologies Used
 
-HTML  
-CSS  
+- HTML  
+- CSS  
 
 ### Features
 
-Responsive webpage layout  
-Structured biography and achievements section  
-Clean and simple user interface  
-Well-organized content presentation  
+- Responsive webpage layout  
+- Structured biography and achievements section  
+- Clean and simple user interface  
+- Well-organized content presentation  
 
 ### HireNest â€“ Job Search Web Application
 
@@ -26,23 +26,23 @@ HireNest is a simple job search web application built to demonstrate the basics 
 
 ### Technologies Used
 
-React.js  
-HTML  
-CSS  
-JavaScript  
+- React.js  
+- HTML  
+- CSS  
+- JavaScript  
 
 ### Features
 
-User signup interface  
-User login interface  
-Job listings display  
-Component-based structure using React  
-Simple and user-friendly interface  
+- User signup interface  
+- User login interface  
+- Job listings display  
+- Component-based structure using React  
+- Simple and user-friendly interface  
 
 ## Skills Gained
 
-Frontend web development  
-React fundamentals  
-UI design and layout structuring  
-Component-based development  
-Responsive design principles
+- Frontend web development  
+- React fundamentals  
+- UI design and layout structuring  
+- Component-based development  
+- Responsive design principles  
