@@ -1,6 +1,6 @@
 ## CodSoft Web Development Internship
 
-This section highlights the projects completed as part of the CodSoft Web Development Internship. The internship focused on building practical web development projects to strengthen frontend development skills and understand real-world UI design.
+This section highlights the projects completed as part of the **CodSoft Web Development Internship.** The internship focused on building practical **web development projects** to strengthen **frontend development** skills and understand real-world UI design.
 
 ## Projects
 
