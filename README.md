@@ -1,38 +1,48 @@
 ## CodSoft Web Development Internship
 
-During my CodSoft Web Development Internship, I worked on practical frontend development projects that helped me strengthen my UI design and React development skills.
+This section highlights the projects completed as part of the CodSoft Web Development Internship. The internship focused on building practical web development projects to strengthen frontend development skills and understand real-world UI design.
 
-### Projects Completed
+## Projects
 
-**Tribute Page – Dr. Kiran Bedi**  
-Developed a responsive tribute webpage dedicated to Dr. Kiran Bedi, India’s first woman IPS officer. The page highlights her inspiring journey, achievements, and leadership that motivates millions of women across the country.  
+### Tribute Page – Dr. Kiran Bedi
 
-**Technologies Used:** HTML, CSS  
+This project is a responsive tribute webpage dedicated to Dr. Kiran Bedi, India’s first woman IPS officer. The page presents her inspiring journey, achievements, and contributions to society in a structured and visually clear format.
 
-**Key Features:**
-- Clean and responsive layout
-- Inspirational biography and achievements
-- Well-structured content sections
-- Simple and elegant user interface design
+### Technologies Used
 
----
+HTML  
+CSS  
 
-**HireNest – Job Search Web Application**  
-Built HireNest, a modern job search web application that allows users to explore job opportunities through a simple and user-friendly interface.
+### Features
 
-**Technologies Used:** React.js, HTML, CSS, JavaScript  
+Responsive webpage layout  
+Structured biography and achievements section  
+Clean and simple user interface  
+Well-organized content presentation  
 
-**Key Features:**
-- User signup and login interface
-- Job listings page
-- Component-based architecture using React
-- Clean and organized UI design
+### HireNest – Job Search Web Application
 
----
+HireNest is a simple job search web application built to demonstrate the basics of modern frontend development using React. The platform allows users to interact with a job listing interface through a clean and organized layout.
 
-### Skills Gained
-- Frontend Development
-- React.js Fundamentals
-- UI/UX Design Principles
-- Responsive Web Design
-- Component-Based Development
+### Technologies Used
+
+React.js  
+HTML  
+CSS  
+JavaScript  
+
+### Features
+
+User signup interface  
+User login interface  
+Job listings display  
+Component-based structure using React  
+Simple and user-friendly interface  
+
+## Skills Gained
+
+Frontend web development  
+React fundamentals  
+UI design and layout structuring  
+Component-based development  
+Responsive design principles
